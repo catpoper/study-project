@@ -1,0 +1,8 @@
+{
+  "gongju": [
+    {"name":"地砖","src":"../assets/gongju_dz.png"},
+    {"name":"地板","src":"../assets/gongju_db.png"},
+    {"name":"涂料","src":"../assets/gongju_tuliao.png"},
+    {"name":"壁纸","src":"../assets/gongju_bizhi.png"}
+  ]
+}
